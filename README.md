@@ -14,7 +14,7 @@ pip install wandb
 `
 
 ## Question 1
-To train a neural network model for image classification on the Fashion-MNIST dataset using categorical cross-entropy loss, use the notebook **Assignment_1.ipynb** 
+
 The program, reads the data from `keras.datasets`, picks one example from each class and logs the same to `wandb`.
 
 ## Questions 2-4
